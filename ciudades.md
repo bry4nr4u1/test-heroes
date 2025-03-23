@@ -1,5 +1,5 @@
 # Ciudades
 
-1. Ciudad GÃ³tica
-2. MetrÃ³polis
+1. Ciudad Gótica
+2. Metrópolis
 3. Hell's Kitchen
