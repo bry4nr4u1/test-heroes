@@ -6,8 +6,9 @@
 * Mujer Maravilla
 * Linterna Verde
 * Robin
-* Volc·n Negro
+* Volc√°n Negro
 * Atom
 * Test Man
 * Test Man Two
 * Flash
+* Spider-Man
